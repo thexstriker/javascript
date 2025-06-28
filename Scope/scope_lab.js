@@ -18,12 +18,26 @@ console.log(globalConst);
 // console.log(blockVar);
 // console.log(blockLet);
 
-function show() {
-    var functionVar = "I'm a block-scoped var";
-    let functionLet = "I'm a block-scoped let";
-    const functionConst = "I'm a block-scoped const";
+// function show() {
+//     var functionVar = "I'm a block-scoped var";
+//     let functionLet = "I'm a block-scoped let";
+//     const functionConst = "I'm a block-scoped const";
+// }
+// show();
+// console.log(functionVar);
+// console.log(functionLet);
+// console.log(functionConst);
+
+{
+    var anotherVar = "another Var";
+    //Var has global or functional scope
 }
-show();
-console.log(functionVar);
-console.log(functionLet);
-console.log(functionConst);
+
+
+const anotherConst = "another Const";
+let anotherLet = "another Let";
+//const and let both have block-level scope
+
+console.log(anotherVar);
+console.log(anotherConst);
+console.log(anotherLet);
