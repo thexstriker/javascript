@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "title": "You Don’t Need 10,000 Steps—7,000 Is Enough",
+      "description": "A recent global review found that walking just 7,000 steps per day yields substantial health benefits—reducing the risk of heart disease, dementia, depression, and early death—nearly as much as 10,000 steps.",
+      "ways_to_achieve": [
+        "Aim for a daily target of around 7,000 steps—easy to reach with walking to class or taking movement breaks.",
+        "Incorporate short activity bursts like stairs or quick walks between periods.",
+        "Track progress using a phone or wearable; small increases from sedentary days provide meaningful gains."
+      ],
+      "benefits": [
+        "About 47% lower risk of death compared to very low step counts.",
+        "Improved cardiovascular and mental health.",
+        "Better control over weight and metabolism.",
+        "More attainable and realistic fitness goal for students."
+      ]
+    },
+    {
+      "title": "Minimally Processed Home Cooking Doubles Weight-Loss Results",
+      "description": "A study published this week shows individuals who ate minimally processed, home-cooked meals lost twice as much weight over eight weeks compared to those on calorie-matched ultra‑processed diets.",
+      "ways_to_achieve": [
+        "Choose meals that use whole ingredients—vegetables, lean proteins, grains—cooked from scratch.",
+        "Plan simple weekly meals and avoid ready-made snacks or foods with long ingredient lists.",
+        "Replace sugary drinks or packaged snacks with whole fruit, nuts, or water."
+      ],
+      "benefits": [
+        "Twice the weight loss (2% body weight vs. 1%) in just 8 weeks.",
+        "Reduced calorie intake (~290 fewer calories/day).",
+        "Fewer cravings and more meal satisfaction.",
+        "Supports long-term healthy habits and better dietary awareness."
+      ]
+    },
+    {
+      "title": "Boost Brain Protection with MIND-Style Foods",
+      "description": "Health experts today recommend foods that support cognitive health and reduce Alzheimer’s risk. Emphasis is on MIND‑style patterns combining Mediterranean and DASH diet principles.",
+      "ways_to_achieve": [
+        "Include berries, leafy greens, walnuts, fish (like salmon), olive oil, and beans regularly.",
+        "Follow MIND/Mediterranean meal patterns: plenty of plant-based foods, moderate fish/poultry, limited saturated fats.",
+        "Reduce processed foods and focus on whole, nutrient-dense meals."
+      ],
+      "benefits": [
+        "Supports memory, neural communication, and brain resilience.",
+        "Reduces inflammation and oxidative stress linked to dementia.",
+        "May slow cognitive aging and preserve executive function.",
+        "Aligns with long-term protective dietary habits."
+      ]
+    },
+    {
+      "title": "Diversifying Plant-Based Foods Trumps ‘5‑a‑Day’",
+      "description": "New research suggests that consuming 11 distinct plant-based foods daily—like herbs, nuts, legumes, seeds, and vegetables—offers greater heart health benefits than simply eating five servings of fruits and vegetables.",
+      "ways_to_achieve": [
+        "Aim for 11 different plant foods daily: fruits, veggies, legumes, whole grains, seeds, nuts, herbs.",
+        "Rotate choices each meal—e.g. spinach, lentils, chia seeds, almonds, olives, basil.",
+        "Use “plant diversity diaries” to track variety, not just quantity."
+      ],
+      "benefits": [
+        "Better HDL cholesterol and lower cardiovascular risk.",
+        "Improved fiber intake and gut health.",
+        "Greater nutrient diversity and metabolic resilience.",
+        "Encourages broader culinary habits and balanced meals."
+      ]
+    }
+  ]
+}
